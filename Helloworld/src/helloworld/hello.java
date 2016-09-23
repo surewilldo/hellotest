@@ -7,6 +7,7 @@ public class hello {
 		System.out.println("hello");
 		System.out.println("weee");
 		System.out.println("change 2");
+		System.out.println("remote change 3");
 	}
 
 }
